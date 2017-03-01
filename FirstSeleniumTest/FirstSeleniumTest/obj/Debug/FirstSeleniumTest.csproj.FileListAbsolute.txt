@@ -1,0 +1,13 @@
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\FirstSeleniumTest.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\FirstSeleniumTest.pdb
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\nunit.framework.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\nunit.framework.xml
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\obj\Debug\FirstSeleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\obj\Debug\FirstSeleniumTest.dll
+C:\Users\Julia_2\Documents\GitHub\selenium-training\FirstSeleniumTest\FirstSeleniumTest\obj\Debug\FirstSeleniumTest.pdb
