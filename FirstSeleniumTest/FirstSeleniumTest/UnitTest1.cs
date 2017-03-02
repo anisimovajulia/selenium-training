@@ -1,10 +1,8 @@
 ﻿using System;
 using NUnit.Framework;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.IE;
+using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace FirstSeleniumTest
 {
@@ -17,17 +15,15 @@ namespace FirstSeleniumTest
         [SetUp]
         public void start()
         {
-            driver = new InternetExplorerDriver();
+            driver = new FirefoxDriver();
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
         }
 
         [Test]
         public void FirstTest()
         {
-            driver.Url = "http://www.google.com/";
-            driver.FindElement(By.Name("q")).SendKeys("webdriver");
-            driver.FindElement(By.Name("btnG")).Click();
-            wait.Until(ExpectedConditions.TitleIs("webdriver - Поиск в Google"));
+            driver.Url = "https://vk.com/";
+
         }
 
         [TearDown]
