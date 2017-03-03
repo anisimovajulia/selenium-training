@@ -1,0 +1,12 @@
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\LoginScenary.dll
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\LoginScenary.pdb
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\nunit.framework.dll
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\WebDriver.dll
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\WebDriver.Support.dll
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\nunit.framework.xml
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\WebDriver.xml
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\bin\Debug\WebDriver.Support.xml
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\obj\Debug\LoginScenary.csprojResolveAssemblyReference.cache
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\obj\Debug\LoginScenary.dll
+c:\users\yulia\documents\visual studio 2015\Projects\LoginScenary\LoginScenary\obj\Debug\LoginScenary.pdb
